@@ -19,7 +19,11 @@ namespace _001_bmi
             weight = double.Parse(Console.ReadLine());
 
             double bmi = weight / (height / 100 * height / 100);
-            Console.Write("BMI = " + bmi);
+            Console.WriteLine("BMI = " + bmi+"입니다.");
+            Console.WriteLine("BMI={0}입니다.", bmi);
+
+            //문자열+숫자=>문자열
+            //문자열+숫자=>문자열
         }
     }
 }
