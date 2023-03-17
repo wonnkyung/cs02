@@ -1,0 +1,9 @@
+C:\Users\konyang\Desktop\VP02_2023-main\007_MessageBoxs\bin\Debug\007_MessageBoxs.exe.config
+C:\Users\konyang\Desktop\VP02_2023-main\007_MessageBoxs\bin\Debug\007_MessageBoxs.exe
+C:\Users\konyang\Desktop\VP02_2023-main\007_MessageBoxs\bin\Debug\007_MessageBoxs.pdb
+C:\Users\konyang\Desktop\VP02_2023-main\007_MessageBoxs\obj\Debug\_007_MessageBoxs.Form1.resources
+C:\Users\konyang\Desktop\VP02_2023-main\007_MessageBoxs\obj\Debug\_007_MessageBoxs.Properties.Resources.resources
+C:\Users\konyang\Desktop\VP02_2023-main\007_MessageBoxs\obj\Debug\007_MessageBoxs.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\VP02_2023-main\007_MessageBoxs\obj\Debug\007_MessageBoxs.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\VP02_2023-main\007_MessageBoxs\obj\Debug\007_MessageBoxs.exe
+C:\Users\konyang\Desktop\VP02_2023-main\007_MessageBoxs\obj\Debug\007_MessageBoxs.pdb

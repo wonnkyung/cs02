@@ -1,0 +1,9 @@
+C:\Users\konyang\Desktop\VP02_2023-main\008\bin\Debug\008.exe.config
+C:\Users\konyang\Desktop\VP02_2023-main\008\bin\Debug\008.exe
+C:\Users\konyang\Desktop\VP02_2023-main\008\bin\Debug\008.pdb
+C:\Users\konyang\Desktop\VP02_2023-main\008\obj\Debug\_008.Form1.resources
+C:\Users\konyang\Desktop\VP02_2023-main\008\obj\Debug\_008.Properties.Resources.resources
+C:\Users\konyang\Desktop\VP02_2023-main\008\obj\Debug\008_Label.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\VP02_2023-main\008\obj\Debug\008_Label.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\VP02_2023-main\008\obj\Debug\008.exe
+C:\Users\konyang\Desktop\VP02_2023-main\008\obj\Debug\008.pdb
